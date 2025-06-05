@@ -1,4 +1,4 @@
-<h1 align="center">Fala aí, sou o George 👨‍💻</h1>
+<h1 align="center">Fala aí, me chamo George Pinchemel 👨‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&center=true&vCenter=true&multiline=true&lines=🚀%7C+Dev+em+evolução+%7C" alt="Typing SVG">
