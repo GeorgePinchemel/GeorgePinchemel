@@ -11,7 +11,7 @@
 ---
 
 ### 🔧 Linguagem principal
-!Java
+! Java
 
 ---
 
