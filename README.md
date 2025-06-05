@@ -12,7 +12,7 @@
 ---
 
 ## 📫 Contato
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/george-pinchemel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -24,7 +24,7 @@
 ---
 
 ## 🔧 Tecnologias e Ferramentas
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> 
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
