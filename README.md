@@ -22,7 +22,7 @@
 ### 🧠 Área de atuação
 - 📘 Monitor de Algoritmos
 - 🔢 Estruturas de Dados
-- 🚀 Lógica de Programação
+- :bulb: Lógica de Programação
 - 🧩 Desafios computacionais com Java
 
 ---
