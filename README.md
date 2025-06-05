@@ -1,5 +1,9 @@
 <h1 align="center">Fala aí, sou o George 👨‍💻</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FFFF&center=true&vCenter=true&multiline=true&lines=🚀%7C+Dev+em+evolução+%7C" alt="Typing SVG">
+</p>
+
 <p align="center">Monitor de Algoritmos e entusiasta da programação. Buscando sempre escrever código limpo, eficiente e que resolva problemas de verdade. Focado em Java e estruturas de dados.</p>
 
 ---
