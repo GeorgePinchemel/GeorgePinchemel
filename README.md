@@ -4,18 +4,18 @@
 
 ---
 
-###📫 Contato:
+### 📫 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/george-pinchemel)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgepmsilveira@gmail.com)
 
 ---
 
-###🔧 Linguagem principal:
+### 🔧 Linguagem principal:
 !Java
 
 ---
 
-🧠 Área de atuação,
+### 🧠 Área de atuação,
 📘 Monitor de Algoritmos,
 🔢 Estruturas de Dados,
 🚀 Lógica de Programação,
@@ -23,7 +23,7 @@
 
 ---
 
-###📊 GitHub Stats:
+### 📊 GitHub Stats:
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgePinchemel&show_icons=true&theme=midnight-purple&count_private=true"/>
 </div>
