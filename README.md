@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 Sobre mim
-💡 Apaixonado por análise de dados e programação, sempre em busca de aprender e evoluir. Meu foco principal é **Alteryx** e estruturas de dados, criando **fluxos (workflows)** limpos e eficientes. Atualmente explorando o mundo dos bancos de dados, aprendendo MySQL! 
+💡 Apaixonado por análise de dados e programação, sempre em busca de aprender e evoluir. Meu foco principal é **Alteryx** e estruturas de dados, criando **fluxos (workflows)** limpos e eficientes. Atualmente explorando o mundo dos bancos de dados e me arriscando em Python!
 
 ---
 
