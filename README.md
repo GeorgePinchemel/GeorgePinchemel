@@ -39,11 +39,4 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GeorgePinchemel&show_icons=true&theme=midnight-purple&count_private=true" alt="GitHub Stats"/>
-</p>
-
----
-
 🚀 Sempre buscando aprender e crescer na área de tecnologia. Se quiser trocar ideias sobre programação, me chama no LinkedIn ou manda um e-mail! 😃
